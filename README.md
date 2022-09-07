@@ -1,6 +1,6 @@
 # App Web Calculadora
 
-<img src"https://github.com/Eliane-Santiago/AppWebCalculadora/blob/main/Foto_calc.png"/>
+<img src="https://github.com/Eliane-Santiago/AppWebCalculadora/blob/main/Foto_calc.png" />
 
 Essa aplicação faz calculos básicos em forma de expressões aritmédicas
 
