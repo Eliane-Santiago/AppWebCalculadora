@@ -11,3 +11,8 @@ Para usar essa aplicação é só fazer o dowload do repositório
 ## Como usar
 
 Digite a expressão que deseja fazer o cálculo, caso queira apagar todos os caracteres já digitados é só teclar o "C", caso queira apagar o último caracter digitado é só clicar em "DEL" ou caso queira finalizar os cálculos é só digitar o "="
+
+## Tecnológias Aplicadas
+- HTML
+- CSS / BOOTSTRAP
+- JAVASCRIPT
